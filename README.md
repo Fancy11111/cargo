@@ -7,6 +7,8 @@
   A browser with almost no UI.
 </p>
 
+This is a fork of [cargo](https://github.com/herber/cargo/) by [Tobias Herber](https://github.com/herber)
+
 Cargo is a browser for people that live on the internet and hate mice. Cargo can be controlled using only a few keyboard shortcuts. Cargo only includes the most useful features of a browser, this way unnecessary features can't disturb you while surfing the interwebz. I built cargo, because I did not use most features that my browsers of choice(chrome and firefox) had.
 
 Cargo is still in a very early state, but it is already usable, please help me developing it.
